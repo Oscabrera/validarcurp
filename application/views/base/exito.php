@@ -1,0 +1,1 @@
+<div class="alert alert-success col-sm-8 col-sm-offset-2" id="diverror"> <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a><strong>Exito!</strong> Datos guardados. </div>
