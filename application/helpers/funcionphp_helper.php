@@ -147,7 +147,7 @@ function LeerArchivo($excel){
 
 function curlCURP($excel,$CURP){
    $datos=array('CURP'=>$CURP,'Valido'=>array());
-   $r=0; $url="http://sube.educafin.com/includes/uys87eryyu_datos_curp_renapo_sibec_talentum_xyzdkhgfuers.php?txtCurpIngresado=";
+   $r=0; $url="url_CURP";
     $curl = curl_init();
     $datos=array();
     foreach($CURP[0] as $d){
